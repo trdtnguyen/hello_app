@@ -217,5 +217,8 @@ DEPENDENCIES
   webdrivers
   webpacker (= 4.2.2)
 
+RUBY VERSION
+   ruby 2.5.1p57
+
 BUNDLED WITH
    2.1.4
